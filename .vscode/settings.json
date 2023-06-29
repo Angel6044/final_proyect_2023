@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.java": "java",
+        "structs.h": "c",
+        "functioncommons.h": "c",
+        "functions.h": "c",
+        "functionscsv.h": "c",
+        "functionslistas.h": "c",
+        "functionscommons.h": "c",
+        "functionsmenu.h": "c",
+        "stdio.h": "c",
+        "settings.h": "c",
+        "abbusudeudores.h": "c",
+        "ordenamiento.h": "c"
+    }
+}
