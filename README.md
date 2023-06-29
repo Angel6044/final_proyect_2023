@@ -1,4 +1,5 @@
-##Escenario
+## Escenario
+
 Una empresa a cargo del servicio de potabilización y distribución de agua potable en la
 ciudad, debe realizar la inspección de los medidores para determinar cuánto consumo hubo.
 Para ello hace uso de unas libretas donde se registra el número de medidor y el estado del
@@ -23,7 +24,7 @@ requiere de un sistema de facturación que optimice el trabajo y genere los arch
 necesarios para la toma de estado, como así también procese los archivos devueltos por
 dichos dispositivos.
 
-##Requerimientos del sistema:
+## Requerimientos del sistema:
 1. El dispositivo requiere de que se le suministre la información por medio de archivos
 de tipo csv "Comma Separated Values", que no es más que valores separados por
 coma. Hay que generar dichos archivos.
@@ -33,7 +34,7 @@ ingresarlos al sistema para poder procesarlos a posterior.
 3. El sistema deberá procesar la información descargada de los dispositivos, almacenando
 el movimiento en el sistema y generando las facturas correspondientes.
 
-##Consignas
+## Consignas
 ● Crear las estructuras y los algoritmos/códigos necesarios para almacenar datos
 requeridos y representar el escenario.
 ● Generar un árbol de búsqueda binaria que contenga los usuarios deudores al mes
