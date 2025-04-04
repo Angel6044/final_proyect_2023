@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 💧 Sistema de Gestión de Toma de Estado y Facturación de Medidores de Agua
 
 Proyecto desarrollado en **Lenguaje C**, orientado a la optimización del proceso de toma de estado, facturación y gestión de usuarios en una empresa proveedora de agua potable.
